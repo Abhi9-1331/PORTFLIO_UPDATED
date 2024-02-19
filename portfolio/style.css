@@ -95,6 +95,7 @@ nav a {
 /*****Main BANNER IMAGE*****/
 .main-panel img {
 	margin-top: 10%;
+	border-radius:50%;
 	width: 100%;
 	margin-left: 10%;
     border: 5px solid #35fff2;
@@ -234,44 +235,7 @@ div[role="progressbar"] {
 .Education-content p {
 	font-size: 15px;
 }
-/*****Education SECTION*****/
-.bg-lightgrey {
-	background-color: #1a1a1a;
-}
-.edu-exp {
-	padding: 10px 0px;
-	width: 48%;
-	margin: 1%;
-	float: left;
-	padding-left: 10px;
-}
-.Education-list {
-	width: 100%;
-	float: left;
-	padding: 30px 10px;
-	background: #262626;
-	margin-bottom: 20px;
-}
-.Education-content {
-	width: 100%;
-	float: left;
-	margin-left: 10px;
-}
-.Education-content h2 {
 
-	font-weight: 600;
-	margin-bottom: 5px;
-	font-size: 20px;
-}
-.Education-content h3 {
-	color: #35fff2;
-	font-weight: 500;
-	margin-bottom: 2px;
-	font-size: 17px;
-}
-.Education-content p {
-	font-size: 15px;
-}
 /*CONTACT US SECTION*/
 .contact form {
 	width: 66%;
